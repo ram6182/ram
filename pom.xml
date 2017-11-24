@@ -4,7 +4,7 @@
   <groupId>com.venkatcompany</groupId>
   <artifactId>venkat-app</artifactId>
   <packaging>jar</packaging>
-  <version>2.5-SNAPSHOT</version>
+  <version>2.6-SNAPSHOT</version>
   <name>venkat-app</name>
   <url>http://maven.apache.org</url>
  <properties>
