@@ -201,7 +201,7 @@
 
            <snapshotRepository>
             <id>venkat</id>
-            <url>http://54.173.0.92:8081/nexus/content/repositories/venkat/</url>
+            <url>http://34.201.59.247:8081/nexus/content/repositories/venkat/</url>
 </snapshotRepository>
     </distributionManagement>
   
